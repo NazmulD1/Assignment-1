@@ -3,3 +3,22 @@ body {
   background-color: rgb(248, 232, 232);
   text-align: center;
 }
+
+.link {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.btn {
+  font-size: 18px;
+  padding: 15px 30px;
+  background-color: #63bd66; 
+  color: white;
+  border: none;
+  border-radius: 15px;
+}
+
+.btn:hover {
+  background-color: #48a04d; 
+}
